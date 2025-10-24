@@ -1,0 +1,15 @@
+{
+  "season": { "startYear": 2022, "endYear": 2023, "label": "2022–2023" },
+  "winners": {
+    "boys": {
+      "boatrace":  { "year": 2022, "school": "St Benedict's College" },
+      "buffalo":   { "year": 2023, "school": "St Benedict's College" },
+      "sachamps":  { "year": 2023, "school": "St Stithians College" }
+    },
+    "girls": {
+      "boatrace":  { "year": 2022, "school": "St Mary's School" },
+      "buffalo":   { "year": 2023, "school": "St Mary's School" },
+      "sachamps":  { "year": 2023, "school": "St Mary's School" }
+    }
+  }
+}

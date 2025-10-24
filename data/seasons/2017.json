@@ -1,0 +1,15 @@
+{
+  "season": { "startYear": 2016, "endYear": 2017, "label": "2016–2017" },
+  "winners": {
+    "boys": {
+      "boatrace":  { "year": 2016, "school": "King Edward VII School" },
+      "buffalo":   { "year": 2017, "school": "St Andrews College" },
+      "sachamps":  { "year": 2017, "school": "St Andrews College" }
+    },
+    "girls": {
+      "boatrace":  { "year": 2016, "school": "St Mary's School" },
+      "buffalo":   { "year": 2017, "school": "St Andrew's School for Girls" },
+      "sachamps":  { "year": 2017, "school": "St Mary's School" }
+    }
+  }
+}

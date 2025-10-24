@@ -1,0 +1,15 @@
+{
+  "season": { "startYear": 2009, "endYear": 2010, "label": "2009–2010" },
+  "winners": {
+    "boys": {
+      "boatrace":  { "year": 2009, "school": "S.A.C.S." },
+      "buffalo":   { "year": 2010, "school": "S.A.C.S." },
+      "sachamps":  { "year": 2010, "school": "S.A.C.S." }
+    },
+    "girls": {
+      "boatrace":  { "year": 2009, "school": "Somerset College" },
+      "buffalo":   { "year": 2010, "school": "Somerset College" },
+      "sachamps":  { "year": 2010, "school": "Not confirmed" }
+    }
+  }
+}

@@ -1,0 +1,79 @@
+﻿:root { --ink: #222; --accent: #0d6efd; --bg: #fff; --muted: #f6f7f9; }
+
+* { box-sizing: border-box; }
+html, body { margin: 0; padding: 0; font-family: system-ui, Segoe UI, Arial, sans-serif; color: var(--ink); background: var(--bg); }
+main { max-width: 960px; margin: 2rem auto; padding: 0 1rem; }
+h1 { margin: 1.5rem 0; font-size: 1.8rem; }
+nav a { margin-right: 1rem; text-decoration: none; color: var(--accent); }
+nav { background: var(--muted); padding: .75rem 1rem; }
+
+tr.boys-triple td.boys,
+tr.girls-triple td.girls {
+    background: #d8f5d0;
+    font-weight: 600;
+}
+
+.badge {
+    color: #2e7d32;
+    font-weight: 600;
+    margin-left: 0.25rem;
+}
+
+.badgenowinner {
+    color: #ea5d5d !important;
+    font-weight: 600;
+    margin-left: 0.25rem;
+}
+
+
+label[for="filter"] { display: inline-block; margin-top: .5rem; }
+#filter { margin: .25rem 0 1rem; padding: .4rem .5rem; width: 100%; max-width: 360px; }
+
+#history-list ul { padding-left: 1.25rem; }
+#history-list li { margin: .25rem 0; }
+
+#status, #history-status {
+    margin: .5rem 0 1rem;
+    font-size: 0.95rem;
+    color: #666;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+thead th {
+    padding: 0.6rem 0.75rem;
+    background: #fafafa;
+    border-bottom: 2px solid #cfcfcf;
+    text-align: left;
+}
+
+.boys-header { background: #dbe9ff; font-weight: 600; }
+.girls-header { background: #ffe2f3; font-weight: 600; }
+
+tbody td {
+    padding: 0.5rem 0.75rem;
+}
+
+tbody tr {
+    border-bottom: 1px solid #e6e6e6; /* ← line between years */
+}
+
+tbody tr:hover {
+    background: #f6faff; /* optional hover */
+}
+
+/* keep your existing winners highlighting; example below if needed */
+.boys-triple td.boys,
+.girls-triple td.girls {
+    background: #e9f5e9; /* light green winner shading */
+}
+
+.badge {
+    display: inline-block;
+    margin-left: .5rem;
+    font-size: .85rem;
+}
+

@@ -1,0 +1,15 @@
+{
+  "season": { "startYear": 2002, "endYear": 2003, "label": "2002–2003" },
+  "winners": {
+    "boys": {
+      "boatrace":  { "year": 2002, "school": "St Benedict's College" },
+      "buffalo":   { "year": 2003, "school": "St Benedict's College" },
+      "sachamps":  { "year": 2003, "school": "St Benedict's College" }
+    },
+    "girls": {
+      "boatrace":  { "year": 2002, "school": "St Mary's School" },
+      "buffalo":   { "year": 2003, "school": "St Mary's School" },
+      "sachamps":  { "year": 2003, "school": "Not confirmed" }
+    }
+  }
+}

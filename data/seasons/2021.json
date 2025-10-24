@@ -1,0 +1,15 @@
+{
+  "season": { "startYear": 2020, "endYear": 2021, "label": "2020–2021" },
+  "winners": {
+    "boys": {
+      "boatrace":  { "year": 2020, "school": "St Benedict's College" },
+      "buffalo":   { "year": 2021, "school": "St Benedict's College" },
+      "sachamps":  { "year": 2021, "school": "St Benedict's College" }
+    },
+    "girls": {
+      "boatrace":  { "year": 2020, "school": "St Mary's School" },
+      "buffalo":   { "year": 2021, "school": "St Mary's School" },
+      "sachamps":  { "year": 2021, "school": "St Mary's School" }
+    }
+  }
+}

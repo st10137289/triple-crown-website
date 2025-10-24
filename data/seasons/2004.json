@@ -1,0 +1,15 @@
+{
+  "season": { "startYear": 2003, "endYear": 2004, "label": "2003–2004" },
+  "winners": {
+    "boys": {
+      "boatrace":  { "year": 2003, "school": "St Andrews College" },
+      "buffalo":   { "year": 2004, "school": "St Andrews College" },
+      "sachamps":  { "year": 2004, "school": "St Andrews College" }
+    },
+    "girls": {
+      "boatrace":  { "year": 2003, "school": "St Mary's School" },
+      "buffalo":   { "year": 2004, "school": "St Andrew's School for Girls" },
+      "sachamps":  { "year": 2004, "school": "Not confirmed" }
+    }
+  }
+}

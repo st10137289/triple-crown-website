@@ -1,0 +1,15 @@
+{
+  "season": { "startYear": 2005, "endYear": 2006, "label": "2005–2006" },
+  "winners": {
+    "boys": {
+      "boatrace":  { "year": 2005, "school": "St Andrews College" },
+      "buffalo":   { "year": 2006, "school": "St Andrews College" },
+      "sachamps":  { "year": 2006, "school": "St Andrews College" }
+    },
+    "girls": {
+      "boatrace":  { "year": 2005, "school": "St Mary's School" },
+      "buffalo":   { "year": 2006, "school": "St Mary's School" },
+      "sachamps":  { "year": 2006, "school": "St Mary's School" }
+    }
+  }
+}

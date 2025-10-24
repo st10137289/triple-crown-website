@@ -1,0 +1,15 @@
+{
+  "season": { "startYear": 2008, "endYear": 2009, "label": "2008–2009" },
+  "winners": {
+    "boys": {
+      "boatrace":  { "year": 2008, "school": "St Benedict's College" },
+      "buffalo":   { "year": 2009, "school": "S.A.C.S." },
+      "sachamps":  { "year": 2009, "school": "S.A.C.S." }
+    },
+    "girls": {
+      "boatrace":  { "year": 2008, "school": "St Mary's School" },
+      "buffalo":   { "year": 2009, "school": "Somerset College" },
+      "sachamps":  { "year": 2009, "school": "Somerset College" }
+    }
+  }
+}

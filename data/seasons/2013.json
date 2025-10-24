@@ -1,0 +1,15 @@
+{
+  "season": { "startYear": 2012, "endYear": 2013, "label": "2012–2013" },
+  "winners": {
+    "boys": {
+      "boatrace":  { "year": 2012, "school": "St Alban's College" },
+      "buffalo":   { "year": 2013, "school": "St Benedict's College" },
+      "sachamps":  { "year": 2013, "school": "St Benedict's College" }
+    },
+    "girls": {
+      "boatrace":  { "year": 2012, "school": "St Mary's School" },
+      "buffalo":   { "year": 2013, "school": "St Mary's School" },
+      "sachamps":  { "year": 2013, "school": "St Mary's School" }
+    }
+  }
+}
